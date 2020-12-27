@@ -147,4 +147,3 @@ This repo is maintained by [Anomaly Innovations](https://anoma.ly); makers of [S
 ### AWS Info
 Region: us-east-1
 
-https://0o3ueoawp8.execute-api.us-east-1.amazonaws.com/prod/hello
